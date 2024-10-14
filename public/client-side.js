@@ -1,5 +1,5 @@
-const api_key = "your-api-key-here"
-const cloud_name = "your-cloud-name-here"
+const api_key = "882172587569538"
+const cloud_name = "dl7flftxa"
 // It's okay for these to be public on client-side JS
 // You just don't ever want to leak your API Secret
 
